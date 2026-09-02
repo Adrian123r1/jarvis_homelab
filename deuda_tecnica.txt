@@ -1,0 +1,4 @@
+Investigar por qué top ordena por CPU por defecto y qué hace Shift+M exactamente
+"I proved Git history is immutable and learned revert + gitignore"
+"I understand SIGTERM vs SIGKILL and when each destroys data"
+"I diagnosed and fixed a ZSH globbing error on my own"
