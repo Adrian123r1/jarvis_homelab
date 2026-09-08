@@ -1,5 +1,1 @@
-Investigar por qué top ordena por CPU por defecto y qué hace Shift+M exactamente
-"I proved Git history is immutable and learned revert + gitignore"
-"I understand SIGTERM vs SIGKILL and when each destroys data"
-"I diagnosed and fixed a ZSH globbing error on my own"
-Day 12 security test: gitleaks was installed and used to scan the repository. A pre-commit hook was activated so staged commits are scanned before creation. A fake AWS credential was used as a controlled test and should be rejected before entering Git history.
+Day 12: gitleaks was installed and a pre-commit hook was activated. A controlled fake AWS credential was rejected before it could become a Git commit.
