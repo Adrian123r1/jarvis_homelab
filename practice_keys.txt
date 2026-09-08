@@ -1,0 +1,6 @@
+ssh-rsa AAAAfakelaptop2019 backup@old-laptop
+ssh-ed25519 AAAAfakejarvismain centinela@jarvis
+ssh-rsa AAAAfakeci2020 ci@jenkins
+ssh-ed25519 AAAAfakebackup backup@vault
+ssh-ed25519 AAAAfakemonitor monitor@probe
+ssh-rsa AAAAfakecontractor2021 ext@contractor

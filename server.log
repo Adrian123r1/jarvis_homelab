@@ -1,0 +1,21 @@
+2025-01-13 02:14:22 203.0.113.45 sshd FAILED password for root
+2025-01-13 02:14:25 203.0.113.45 sshd FAILED password for root
+2025-01-13 02:14:29 203.0.113.45 sshd FAILED password for admin
+2025-01-13 02:15:01 198.51.100.7 sshd ACCEPTED password for centinela
+2025-01-13 02:16:44 203.0.113.45 sshd FAILED password for root
+2025-01-13 02:16:47 203.0.113.45 sshd FAILED password for root
+2025-01-13 02:16:51 203.0.113.45 sshd FAILED password for root
+2025-01-13 02:17:03 203.0.113.45 sshd FAILED password for test
+2025-01-13 02:17:26 203.0.113.45 sshd FAILED password for guest
+2025-01-13 03:02:11 198.51.100.7 nginx ERROR upstream timeout
+2025-01-13 03:02:12 198.51.100.7 nginx ERROR upstream timeout
+2025-01-13 04:15:00 10.0.0.5 cron INFO backup started
+2025-01-13 04:15:44 10.0.0.5 cron INFO backup completed
+2025-01-13 05:30:19 203.0.113.45 sshd FAILED password for root
+2025-01-13 05:30:22 203.0.113.45 sshd FAILED password for root
+2025-01-13 06:22:10 198.51.100.7 sshd FAILED password for centinela
+2025-01-13 07:41:08 192.168.1.14 sshd ACCEPTED key for deploy
+2025-01-13 08:00:00 10.0.0.5 systemd INFO daily rotate
+2025-01-13 09:12:55 198.51.100.7 nginx WARN slow response 3.2s
+2025-01-13 10:03:33 203.0.113.45 sshd FAILED password for oracle
+2025-01-13 10:03:36 203.0.113.45 sshd FAILED password for postgres

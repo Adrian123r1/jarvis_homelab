@@ -1,0 +1,6 @@
+[Unit]
+Description=JARVIS homelab health check
+
+[Service]
+Type=oneshot
+ExecStart=/home/adrian/jarvis_workspace/health.sh

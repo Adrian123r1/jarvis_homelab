@@ -1,0 +1,9 @@
+[Unit]
+Description=Run JARVIS health check hourly
+
+[Timer]
+OnCalendar=*-*-* *:00:00
+Unit=jarvis-health.service
+
+[Install]
+WantedBy=timers.target

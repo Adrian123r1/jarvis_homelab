@@ -1,0 +1,4 @@
+INCIDENT REPORT - auth log forensics
+Attacker: 203.0.113.45 (12 failed attempts, 6 usernames: root, admin, test, guest, oracle, postgres)
+Verdict: brute-force bot scanning default accounts
+Innocent: 198.51.100.7 (1 typo by user centinela; nginx timeouts unrelated)
