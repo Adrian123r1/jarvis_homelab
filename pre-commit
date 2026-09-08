@@ -1,0 +1,8 @@
+#!/bin/bash
+set -euo pipefail
+
+printf '%s\n' "JARVIS: scanning for secrets before commit..."
+
+gitleaks protect --staged
+
+printf '%s\n' "JARVIS: clean. Commit approved."
