@@ -3,7 +3,7 @@ import subprocess
 import logging
 import os
 
-# Asegura que la carpeta exista y guarda el log en la ruta exacta que te pidieron
+# Asegura que la carpeta exista y define la ruta exacta para el log
 log_path = os.path.expanduser("~/jarvis_homelab/memory.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
@@ -32,8 +32,7 @@ def reportar(disponible):
     else:
         logging.info(f"Memory OK: {disponible} MB available")
 
-# ═══ EJECUCIÓN ═══
+# ═══ EJECUCIÓN (Llamadas abajo del todo) ═══
 salida = capturar()
 disponible = transformar(salida)
 reportar(disponible)
-
